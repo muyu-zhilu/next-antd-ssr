@@ -58,7 +58,7 @@ var UserList = function UserList() {
 
 /***/ }),
 
-/***/ 4:
+/***/ 1:
 /*!************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2FuserList&absolutePagePath=%2FUsers%2Fzhaoyunfei%2FDesktop%2F%E8%B5%B5%E4%BA%91%E9%A3%9E%2Fnext-demo%2Fpages%2FuserList.js ***!
   \************************************************************************************************************************************************************************/
@@ -81,5 +81,5 @@ module.exports = dll_829b10deddf10e1653a8;
 
 /***/ })
 
-},[[4,"static/runtime/webpack.js","styles"]]]);
+},[[1,"static/runtime/webpack.js","styles"]]]);
 //# sourceMappingURL=userList.js.map
