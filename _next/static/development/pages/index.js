@@ -16,74 +16,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Carousel_less__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Carousel.less */ "./components/Carousel.less");
 /* harmony import */ var _Carousel_less__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_Carousel_less__WEBPACK_IMPORTED_MODULE_2__);
 
-var _jsxFileName = "/Users/zhaoyunfei/Desktop/\u8D75\u4E91\u98DE/next-demo/components/Carousel.js";
 
 
 /* harmony default export */ __webpack_exports__["default"] = (function (_ref) {
   var style = _ref.style;
   return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-    style: style,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 5
-    },
-    __self: this
+    style: style
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(antd_lib_carousel__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    autoplay: true,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h3", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: this
-  }, "1")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 10
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h3", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: this
-  }, "2")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 13
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h3", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 14
-    },
-    __self: this
-  }, "3")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h3", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 17
-    },
-    __self: this
-  }, "4"))));
+    autoplay: true
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h3", null, "1")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h3", null, "2")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h3", null, "3")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h3", null, "4"))));
 });
 
 /***/ }),
@@ -101,39 +42,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/head */ "./node_modules/next-server/dist/lib/head.js");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Users/zhaoyunfei/Desktop/\u8D75\u4E91\u98DE/next-demo/components/Head.js";
 
 
 /* harmony default export */ __webpack_exports__["default"] = (function (_ref) {
   var title = _ref.title;
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_head__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 3
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_head__WEBPACK_IMPORTED_MODULE_1___default.a, null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
     name: "viewport",
-    content: "width=device-width, initial-scale=1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 4
-    },
-    __self: this
+    content: "width=device-width, initial-scale=1"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
-    charSet: "utf-8",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 5
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("title", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6
-    },
-    __self: this
-  }, title));
+    charSet: "utf-8"
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("title", null, title));
 });
 
 /***/ }),
@@ -35162,7 +35080,6 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/zhaoyunfei/Desktop/\u8D75\u4E91\u98DE/next-demo/pages/index.js";
 
 
 
@@ -35175,195 +35092,62 @@ var SubMenu = antd_lib_menu__WEBPACK_IMPORTED_MODULE_1___default.a.SubMenu;
 var MenuItemGroup = antd_lib_menu__WEBPACK_IMPORTED_MODULE_1___default.a.ItemGroup;
 
 var Home = function Home() {
-  return react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_3__["Fragment"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 12
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(_components_Head__WEBPACK_IMPORTED_MODULE_5__["default"], {
-    title: 'IBOS官网',
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 13
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(antd_lib_layout__WEBPACK_IMPORTED_MODULE_2___default.a, {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 14
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(Header, {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 15
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("div", {
-    className: "logo",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: this
+  return react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_3__["Fragment"], null, react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(_components_Head__WEBPACK_IMPORTED_MODULE_5__["default"], {
+    title: 'IBOS官网'
+  }), react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(antd_lib_layout__WEBPACK_IMPORTED_MODULE_2___default.a, null, react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(Header, null, react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("div", {
+    className: "logo"
   }, react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("img", {
-    src: "https://gw.alicdn.com/tfs/TB1ayl9mpYqK1RjSZLeXXbXppXa-170-62.png",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 17
-    },
-    __self: this
+    src: "https://gw.alicdn.com/tfs/TB1ayl9mpYqK1RjSZLeXXbXppXa-170-62.png"
   })), react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(antd_lib_menu__WEBPACK_IMPORTED_MODULE_1___default.a, {
     theme: "light",
     mode: "horizontal",
     style: {
       lineHeight: '64px'
-    },
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
+    }
   }, react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(SubMenu, {
     title: react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("span", {
-      className: "submenu-title-wrapper",
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 20
-      },
-      __self: this
-    }, "\u4EA7\u54C1"),
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 20
-    },
-    __self: this
+      className: "submenu-title-wrapper"
+    }, "\u4EA7\u54C1")
   }, react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(MenuItemGroup, {
-    title: "Item 1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 21
-    },
-    __self: this
+    title: "Item 1"
   }, react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(antd_lib_menu__WEBPACK_IMPORTED_MODULE_1___default.a.Item, {
-    key: "setting:1",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 22
-    },
-    __self: this
+    key: "setting:1"
   }, "Option 1"), react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(antd_lib_menu__WEBPACK_IMPORTED_MODULE_1___default.a.Item, {
-    key: "setting:2",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 23
-    },
-    __self: this
+    key: "setting:2"
   }, "Option 2")), react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(MenuItemGroup, {
-    title: "Item 2",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 25
-    },
-    __self: this
+    title: "Item 2"
   }, react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(antd_lib_menu__WEBPACK_IMPORTED_MODULE_1___default.a.Item, {
-    key: "setting:3",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 26
-    },
-    __self: this
+    key: "setting:3"
   }, "Option 3"), react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(antd_lib_menu__WEBPACK_IMPORTED_MODULE_1___default.a.Item, {
-    key: "setting:4",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 27
-    },
-    __self: this
+    key: "setting:4"
   }, "Option 4"))), react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(antd_lib_menu__WEBPACK_IMPORTED_MODULE_1___default.a.Item, {
-    key: "2",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 30
-    },
-    __self: this
+    key: "2"
   }, "\u53EA\u80FD\u529E\u516C\u786C\u4EF6"), react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(antd_lib_menu__WEBPACK_IMPORTED_MODULE_1___default.a.Item, {
-    key: "3",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 31
-    },
-    __self: this
+    key: "3"
   }, "\u884C\u4E1A\u89E3\u51B3\u65B9\u6848"), react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(antd_lib_menu__WEBPACK_IMPORTED_MODULE_1___default.a.Item, {
-    key: "4",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 32
-    },
-    __self: this
+    key: "4"
   }, "\u5BA2\u6237\u6848\u4F8B"), react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(antd_lib_menu__WEBPACK_IMPORTED_MODULE_1___default.a.Item, {
-    key: "5",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 33
-    },
-    __self: this
+    key: "5"
   }, "\u670D\u52A1"), react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(antd_lib_menu__WEBPACK_IMPORTED_MODULE_1___default.a.Item, {
-    key: "6",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 34
-    },
-    __self: this
+    key: "6"
   }, "\u5F00\u653E\u5E73\u53F0"), react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(antd_lib_menu__WEBPACK_IMPORTED_MODULE_1___default.a.Item, {
-    key: "7",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 35
-    },
-    __self: this
+    key: "7"
   }, "\u5408\u4F5C\u4F19\u4F34"))), react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(Content, {
     style: {
       padding: '0 50px'
-    },
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 39
-    },
-    __self: this
+    }
   }, react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(_components_Carousel__WEBPACK_IMPORTED_MODULE_6__["default"], {
     style: {
       margin: '20px 0px'
-    },
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 40
-    },
-    __self: this
+    }
   }), react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_4___default.a, {
-    href: "/userList",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 41
-    },
-    __self: this
+    href: "/userList"
   }, react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(antd_lib_button__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    type: "primary",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 42
-    },
-    __self: this
+    type: "primary"
   }, "\u7528\u6237\u5217\u8868\u9875"))), react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(Footer, {
     style: {
       textAlign: 'center'
-    },
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 46
-    },
-    __self: this
+    }
   }, "IBOS\u5B98\u7F51 \xA92019 Created by IBOS UED")));
 };
 
