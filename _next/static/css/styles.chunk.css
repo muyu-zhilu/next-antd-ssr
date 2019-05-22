@@ -19991,5 +19991,32 @@ div.ant-typography-edit-content {
   }
 }
 
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 300px;
+  line-height: 300px;
+  background: #364d79;
+  overflow: hidden;
+}
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+}
+
+h1 {
+  color: red;
+}
+.ant-layout-header {
+  background: white;
+}
+.ant-layout-header .logo {
+  width: 120px;
+  height: 31px;
+  margin: 0px 28px 16px 0;
+  float: left;
+}
+.ant-layout-header .logo img {
+  width: 100%;
+}
+
 
 /*# sourceMappingURL=styles.chunk.css.map*/

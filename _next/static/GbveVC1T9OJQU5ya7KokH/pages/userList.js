@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([["79c7"],{jPmf:function(n,t,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/userList",function(){var n=e("vLS2");return{page:n.default||n}}])},vLS2:function(n,t,e){"use strict";e.r(t);var u=e("q1tI"),a=e.n(u);t.default=function(){return a.a.createElement("h2",null,"我是用户列表页")}}},[["jPmf","5d41","9da1"]]]);
