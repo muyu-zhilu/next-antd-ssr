@@ -47,18 +47,25 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _userList_less__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./userList.less */ "./pages/userList.less");
 /* harmony import */ var _userList_less__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_userList_less__WEBPACK_IMPORTED_MODULE_1__);
+var _jsxFileName = "/Users/zhaoyunfei/Desktop/\u8D75\u4E91\u98DE/next-demo/pages/userList.js";
 
 
 
 var UserList = function UserList() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "\u6211\u662F\u7528\u6237\u5217\u8868\u9875");
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 3
+    },
+    __self: this
+  }, "\u6211\u662F\u7528\u6237\u5217\u8868\u9875");
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (UserList);
 
 /***/ }),
 
-/***/ 1:
+/***/ 5:
 /*!************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2FuserList&absolutePagePath=%2FUsers%2Fzhaoyunfei%2FDesktop%2F%E8%B5%B5%E4%BA%91%E9%A3%9E%2Fnext-demo%2Fpages%2FuserList.js ***!
   \************************************************************************************************************************************************************************/
@@ -81,5 +88,5 @@ module.exports = dll_829b10deddf10e1653a8;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js","styles"]]]);
+},[[5,"static/runtime/webpack.js","styles"]]]);
 //# sourceMappingURL=userList.js.map
