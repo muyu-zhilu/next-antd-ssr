@@ -16,7 +16,7 @@
     "antd": "^3.18.2",
     "babel-plugin-import": "^1.11.2",
     "less": "^3.9.0",
-    "next": "^8.1.0",
+    "next": "^11.1.0",
     "postcss-pxtorem": "^4.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
